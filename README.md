@@ -25,6 +25,7 @@
 * [Pastel](https://github.com/cruisediary/Pastel) —— 仿Instagram颜色渐变动画效果
 * [AlertTransition](https://github.com/loopeer/AlertTransition) —— Alert和Controller切换的转场动画
 * [Transition](https://github.com/Touchwonders/Transition) —— 又一个转场动画
+* [Jelly](https://github.com/SebastianBoldt/Jelly) —— 转场动画
 * [Material Motion](https://github.com/material-motion/material-motion-swift) —— 各种动画
 * [Spruce](https://github.com/willowtreeapps/spruce-ios) —— 页面展示动画，提供[Android版本](https://github.com/willowtreeapps/spruce-android)
 * [Lottie](https://github.com/airbnb/lottie-ios) —— Airbnb开源的动画库，将Adobe After Effects实现的动画导出为json，然后在移动设备上展示，支持iOS、Android、React Native
@@ -42,6 +43,7 @@
 * [Watchdog](https://github.com/wojteklu/Watchdog) —— 检测主线程是否阻塞
 * [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) —— 日志记录
 * [GYMonitor](https://github.com/featuretower/GYMonitor) —— FPS监测，Objective-C
+* [TinyConsole](https://github.com/Cosmo/TinyConsole) —— 显示Console
 
 ## 网络
 
@@ -54,7 +56,6 @@
 * [Bleu](https://github.com/1amageek/Bleu) —— 蓝牙工具类，封装CoreBluetooth
 * [R.swift](https://github.com/mac-cain13/R.swift) —— 资源使用工具类，包括图片、字体、颜色等，强类型校验，推荐
 * [UIFontComplete](https://github.com/Nirma/UIFontComplete) —— 类似R.Swift，但是只适用于字体
-* [FengNiao](https://github.com/onevcat/FengNiao) —— 喵神写的开发时检测无用资源的命令行工具
 * [NextLevel](https://github.com/NextLevel/NextLevel) —— 音视频操作工具类
 * [Format](https://github.com/marmelroy/Format) —— 格式化工具，包括数字、货币、地址等
 * [Twitter Image Pipeline](https://github.com/twitter/ios-twitter-image-pipeline) —— Twitter开源的图片获取和缓存框架， Objective-C
@@ -65,11 +66,19 @@
 * [VideoCore](https://github.com/jgh-/VideoCore) —— iOS下音视频处理框架，C++
 * [LiveVideoCoreSDK](https://github.com/runner365/LiveVideoCoreSDK) —— 基于VideoCore实现的手机视频直播sdk，C++
 * [XestiMonitors](https://github.com/eBardX/XestiMonitors) —— 封装UIKit的大部分Notification
+* [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) —— Swift 3 Extension集合，方便开发
+* [Texture](https://github.com/texturegroup/texture) —— facebook开源的界面刷新框架，衍生于AsyncDisplayKit
+* [StatefulViewController](https://github.com/aschuch/StatefulViewController) —— 基于状态的ViewController
+* [RocketData](https://github.com/linkedin/RocketData) —— Linkedin开源的持久化框架，特点是不可变的model
+* [Katana](https://github.com/BendingSpoons/katana-swift) —— 仿React和Redux的Swift版开发框架
 
 ## 完整应用
 
 * [TKeyboard](https://github.com/music4kid/TKeyboard) —— 通过Mac键盘在iOS上输入，Objective-C
 * [Kickstarter](https://github.com/kickstarter/ios-oss) —— Kickstarter
+* [520Linkee](https://github.com/jiaair/520Linkee) —— 直播应用，仿映客
+* [AnyRTC](https://github.com/AnyRTC/AnyRTC-RTMP) —— 直播应用
+* [Dash](https://github.com/Kapeli/Dash-iOS) —— 开发API文档，推荐
 
 ## 其他
 
@@ -84,4 +93,6 @@
 * [Guaka](https://github.com/nsomar/Guaka) —— Swift命令行框架
 * [mars](https://github.com/Tencent/mars) —— 微信开源的跨平台跨业务的终端基础组件，C++
 * [Sourcery](https://github.com/krzysztofzablocki/Sourcery) —— Swift元编程，推荐
+* [Swimat](https://github.com/Jintin/Swimat) —— Swift开发插件，格式化Swift代码
+* [FengNiao](https://github.com/onevcat/FengNiao) —— 喵神写的开发时检测无用资源的命令行工具
 
