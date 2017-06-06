@@ -95,4 +95,4 @@
 * [Sourcery](https://github.com/krzysztofzablocki/Sourcery) —— Swift元编程，推荐
 * [Swimat](https://github.com/Jintin/Swimat) —— Swift开发插件，格式化Swift代码
 * [FengNiao](https://github.com/onevcat/FengNiao) —— 喵神写的开发时检测无用资源的命令行工具
-
+* [2017中国Swift开发大会资料](https://github.com/atConf/atswift-2017-resources) —— 2017 中国 Swift 开发者大会源文件，包括 pdf 和源工程文件 [http://atswift.io](http://atswift.io)
