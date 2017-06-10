@@ -71,6 +71,7 @@
 * [StatefulViewController](https://github.com/aschuch/StatefulViewController) —— 基于状态的ViewController
 * [RocketData](https://github.com/linkedin/RocketData) —— Linkedin开源的持久化框架，特点是不可变的model
 * [Katana](https://github.com/BendingSpoons/katana-swift) —— 仿React和Redux的Swift版开发框架
+* [TinyCrayon](https://github.com/TinyCrayon/TinyCrayon-iOS-SDK) —— 一个图片处理sdk，能够将前景和背景区分
 
 ## 完整应用
 
