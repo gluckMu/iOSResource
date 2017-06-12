@@ -30,6 +30,8 @@
 * [Spruce](https://github.com/willowtreeapps/spruce-ios) —— 页面展示动画，提供[Android版本](https://github.com/willowtreeapps/spruce-android)
 * [Lottie](https://github.com/airbnb/lottie-ios) —— Airbnb开源的动画库，将Adobe After Effects实现的动画导出为json，然后在移动设备上展示，支持iOS、Android、React Native
 * [Stellar](https://github.com/AugustRush/Stellar) —— 各种物理动画效果
+* [Keyframes](https://github.com/facebookincubator/Keyframes) —— facebook开源的动画库，使用js将Adobe After Effects实现的动画导出为扩展脚本，然后在移动设备上展示，支持iOS、Android，类似Lottie
+* [KYAnimatedPageControl](https://github.com/KittenYang/KYAnimatedPageControl) —— 自定义UIPageControl，两种动画：粘性小球和旋转方块，Objective-C
 
 ## 性能监测
 
@@ -72,6 +74,13 @@
 * [RocketData](https://github.com/linkedin/RocketData) —— Linkedin开源的持久化框架，特点是不可变的model
 * [Katana](https://github.com/BendingSpoons/katana-swift) —— 仿React和Redux的Swift版开发框架
 * [TinyCrayon](https://github.com/TinyCrayon/TinyCrayon-iOS-SDK) —— 一个图片处理sdk，能够将前景和背景区分
+* [Overdrive](https://github.com/arikis/Overdrive) —— 一个多线程并发开发sdk
+* [FCFileManager](https://github.com/fabiocaccamo/FCFileManager) —— 封装NSFileManager的文件管理类
+* [Macaw](https://github.com/exyte/Macaw) —— 支持svg的矢量图片开发库
+* [rexxar-ios](https://github.com/douban/rexxar-ios) —— 豆瓣的移动端混合开发框架，Objective-C
+* [Each](https://github.com/dalu93/Each) —— 封装NSTimer的计时器工具类
+* [formvalidator-swift](https://github.com/ustwo/formvalidator-swift) —— 校验文本框输入的工具类
+* [SnapKit](https://github.com/SnapKit/SnapKit) —— AutoLayout工具类
 
 ## 完整应用
 
@@ -97,3 +106,6 @@
 * [Swimat](https://github.com/Jintin/Swimat) —— Swift开发插件，格式化Swift代码
 * [FengNiao](https://github.com/onevcat/FengNiao) —— 喵神写的开发时检测无用资源的命令行工具
 * [2017中国Swift开发大会资料](https://github.com/atConf/atswift-2017-resources) —— 2017 中国 Swift 开发者大会源文件，包括 pdf 和源工程文件 [http://atswift.io](http://atswift.io)
+* [UIWebView-TS_JavaScriptContext](https://github.com/TomSwift/UIWebView-TS_JavaScriptContext) —— 一种不需要使用KVC获取WebView中JSContext的方法，Objective-C
+* [awesome-ios](https://github.com/vsouza/awesome-ios) —— iOS方面的各种资料，包括书籍、工程等
+
