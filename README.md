@@ -32,6 +32,7 @@
 * [Stellar](https://github.com/AugustRush/Stellar) —— 各种物理动画效果
 * [Keyframes](https://github.com/facebookincubator/Keyframes) —— facebook开源的动画库，使用js将Adobe After Effects实现的动画导出为扩展脚本，然后在移动设备上展示，支持iOS、Android，类似Lottie
 * [KYAnimatedPageControl](https://github.com/KittenYang/KYAnimatedPageControl) —— 自定义UIPageControl，两种动画：粘性小球和旋转方块，Objective-C
+# [Gagat](https://github.com/Boerworz/Gagat) —— 主题切换动画
 
 ## 性能监测
 
@@ -81,6 +82,7 @@
 * [Each](https://github.com/dalu93/Each) —— 封装NSTimer的计时器工具类
 * [formvalidator-swift](https://github.com/ustwo/formvalidator-swift) —— 校验文本框输入的工具类
 * [SnapKit](https://github.com/SnapKit/SnapKit) —— AutoLayout工具类
+* [MJRefresh](https://github.com/CoderMJLee/MJRefresh) —— 下拉刷新组件
 
 ## 完整应用
 
@@ -90,6 +92,16 @@
 * [AnyRTC](https://github.com/AnyRTC/AnyRTC-RTMP) —— 直播应用
 * [Dash](https://github.com/Kapeli/Dash-iOS) —— 开发API文档，推荐
 
+## 开发辅助
+
+* [Marathon](https://github.com/JohnSundell/Marathon) —— Swift脚本管理器
+* [Guaka](https://github.com/nsomar/Guaka) —— Swift命令行框架
+* [Sourcery](https://github.com/krzysztofzablocki/Sourcery) —— Swift元编程，推荐
+* [Swimat](https://github.com/Jintin/Swimat) —— Swift开发插件，格式化Swift代码
+* [FengNiao](https://github.com/onevcat/FengNiao) —— 喵神写的开发时检测无用资源的命令行工具
+* [depcheck](https://github.com/wojteklu/depcheck) —— 分析Swift类依赖的工具，Ruby写的
+* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) —— Swift代码格式化工具
+
 ## 其他
 
 * [IPAPatch](https://github.com/Naituw/IPAPatch) —— 无需越狱的侵入其他ipa包， Objective-C
@@ -98,14 +110,9 @@
 * [OpenCC](https://github.com/BYVoid/OpenCC) —— 汉字的简体、繁体转换，C++（[Swift版本](https://github.com/XQS6LB3A/SwiftyOpenCC)）
 * [moco](https://github.com/dreamhead/moco) —— Java的Stub Server，可以用来模拟接口
 * [ninja](https://github.com/ninja-build/ninja) —— Google使用的编译系统，速度快
-* [Marathon](https://github.com/JohnSundell/Marathon) —— Swift脚本管理器
 * [RecordMyScreen](https://github.com/xindawndev/RecordMyScreen-iOS10) —— 无需越狱的截屏，使用了破解的AirPlay协议
-* [Guaka](https://github.com/nsomar/Guaka) —— Swift命令行框架
 * [mars](https://github.com/Tencent/mars) —— 微信开源的跨平台跨业务的终端基础组件，C++
-* [Sourcery](https://github.com/krzysztofzablocki/Sourcery) —— Swift元编程，推荐
-* [Swimat](https://github.com/Jintin/Swimat) —— Swift开发插件，格式化Swift代码
-* [FengNiao](https://github.com/onevcat/FengNiao) —— 喵神写的开发时检测无用资源的命令行工具
 * [2017中国Swift开发大会资料](https://github.com/atConf/atswift-2017-resources) —— 2017 中国 Swift 开发者大会源文件，包括 pdf 和源工程文件 [http://atswift.io](http://atswift.io)
 * [UIWebView-TS_JavaScriptContext](https://github.com/TomSwift/UIWebView-TS_JavaScriptContext) —— 一种不需要使用KVC获取WebView中JSContext的方法，Objective-C
 * [awesome-ios](https://github.com/vsouza/awesome-ios) —— iOS方面的各种资料，包括书籍、工程等
-
+* [practical-programming-books](https://github.com/EZLippi/practical-programming-books) —— 计算机相关技术文章
