@@ -32,7 +32,7 @@
 * [Stellar](https://github.com/AugustRush/Stellar) —— 各种物理动画效果
 * [Keyframes](https://github.com/facebookincubator/Keyframes) —— facebook开源的动画库，使用js将Adobe After Effects实现的动画导出为扩展脚本，然后在移动设备上展示，支持iOS、Android，类似Lottie
 * [KYAnimatedPageControl](https://github.com/KittenYang/KYAnimatedPageControl) —— 自定义UIPageControl，两种动画：粘性小球和旋转方块，Objective-C
-# [Gagat](https://github.com/Boerworz/Gagat) —— 主题切换动画
+* [Gagat](https://github.com/Boerworz/Gagat) —— 主题切换动画
 
 ## 性能监测
 
