@@ -19,6 +19,9 @@
 * [Material Components for iOS](https://github.com/material-components/material-components-ios) —— 符合Material规范的控件，Objective-C
 * [Whisper](https://github.com/hyperoslo/Whisper) —— 应用内通知消息显示
 * [Arek](https://github.com/ennioma/arek) —— 封装各种获取权限的提示
+* [TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel) —— 替代系统UILabel，实现各种定制功能 Objective-C
+* [CFCityPickerVC](https://github.com/CharlinFeng/CFCityPickerVC) —— 城市选择控制器
+* [RKSwipeCards](https://github.com/cwRichardKim/RKSwipeCards) —— 滑动卡片效果 Objective-C
 
 ## 动画
 
@@ -33,6 +36,7 @@
 * [Keyframes](https://github.com/facebookincubator/Keyframes) —— facebook开源的动画库，使用js将Adobe After Effects实现的动画导出为扩展脚本，然后在移动设备上展示，支持iOS、Android，类似Lottie
 * [KYAnimatedPageControl](https://github.com/KittenYang/KYAnimatedPageControl) —— 自定义UIPageControl，两种动画：粘性小球和旋转方块，Objective-C
 * [Gagat](https://github.com/Boerworz/Gagat) —— 主题切换动画
+* [Replace](https://github.com/MartinRGB/Replace-iOS) —— 一个下拉动画，Objective-C
 
 ## 性能监测
 
@@ -47,10 +51,16 @@
 * [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) —— 日志记录
 * [GYMonitor](https://github.com/featuretower/GYMonitor) —— FPS监测，Objective-C
 * [TinyConsole](https://github.com/Cosmo/TinyConsole) —— 显示Console
+* [WBWebViewConsole](https://github.com/Naituw/WBWebViewConsole) —— 为UIWebView和WKWebView提供应用内Console Objective-C
 
 ## 网络
 
 * [Bamboots](https://github.com/mmoaay/Bamboots) —— 基于Alamofire和ObjectMapper实现的网络层框架，可借鉴实现
+* [SocketRocket](https://github.com/facebook/SocketRocket) —— facebook开源的Websocket客户端实现 Objective-C
+
+## 数据库
+
+* [Realm](https://github.com/realm/realm-cocoa) —— 大名鼎鼎的数据库sdk 支持Objective-C和Swift
 
 ## 工具
 
@@ -83,14 +93,19 @@
 * [formvalidator-swift](https://github.com/ustwo/formvalidator-swift) —— 校验文本框输入的工具类
 * [SnapKit](https://github.com/SnapKit/SnapKit) —— AutoLayout工具类
 * [MJRefresh](https://github.com/CoderMJLee/MJRefresh) —— 下拉刷新组件
+* [iOS-CoreImage-Swift](https://github.com/zhangao0086/iOS-CoreImage-Swift) —— 各种滤镜
+* [NXDrawKit](https://github.com/Nicejinux/NXDrawKit) —— 绘画的工具类 Objective-C
+* [FaceAware](https://github.com/BeauNouvelle/FaceAware) —— 对图片进行人脸校正，使其居中
+* [SwiftOCR](https://github.com/garnele007/SwiftOCR) —— OCR识别
+* [YYKeyboardManager](https://github.com/ibireme/YYKeyboardManager) —— 键盘监听管理工具类 Objective-C
+* [Slidden](https://github.com/Brimizer/Slidden) —— 可自定义扩展的键盘实现
+* [TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding) —— 解决UITextField和键盘显示问题 Objective-C
 
 ## 完整应用
 
 * [TKeyboard](https://github.com/music4kid/TKeyboard) —— 通过Mac键盘在iOS上输入，Objective-C
 * [Kickstarter](https://github.com/kickstarter/ios-oss) —— Kickstarter
-* [520Linkee](https://github.com/jiaair/520Linkee) —— 直播应用，仿映客
-* [AnyRTC](https://github.com/AnyRTC/AnyRTC-RTMP) —— 直播应用
-* [Dash](https://github.com/Kapeli/Dash-iOS) —— 开发API文档，推荐
+* [Dash](https://github.com/Kapeli/Dash-iOS) —— 查看开发API文档，推荐
 
 ## 开发辅助
 
@@ -101,6 +116,16 @@
 * [FengNiao](https://github.com/onevcat/FengNiao) —— 喵神写的开发时检测无用资源的命令行工具
 * [depcheck](https://github.com/wojteklu/depcheck) —— 分析Swift类依赖的工具，Ruby写的
 * [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) —— Swift代码格式化工具
+* [fastlane](https://github.com/fastlane/fastlane) —— 编译和打包iOS和Android应用的集成工具 Ruby
+
+## 直播
+
+* [SRS](https://github.com/smartdu/srs) —— 直播服务器 C++
+* [MiaowShow](https://github.com/SunLiner/MiaowShow) —— 一个完整的iOS直播应用
+* [520Linkee](https://github.com/jiaair/520Linkee) —— 直播应用，仿映客
+* [AnyRTC](https://github.com/AnyRTC/AnyRTC-RTMP) —— 直播应用
+* [LFLiveKit](https://github.com/LaiFengiOS/LFLiveKit) —— 来疯直播开源的RTMP流sdk
+* [ijkplayer](https://github.com/Bilibili/ijkplayer) —— Bilibili开源的多媒体播放器
 
 ## 其他
 
@@ -116,3 +141,9 @@
 * [UIWebView-TS_JavaScriptContext](https://github.com/TomSwift/UIWebView-TS_JavaScriptContext) —— 一种不需要使用KVC获取WebView中JSContext的方法，Objective-C
 * [awesome-ios](https://github.com/vsouza/awesome-ios) —— iOS方面的各种资料，包括书籍、工程等
 * [practical-programming-books](https://github.com/EZLippi/practical-programming-books) —— 计算机相关技术文章
+* [AirFloat](https://github.com/trenskow/AirFloat) —— AirPlay协议破解实现 C，还有一个Python写的，见[这里](https://github.com/espes/Slave-in-the-Magic-Mirror)
+* [A practical security guide for web developers](https://github.com/FallibleInc/security-guide-for-developers) —— web开发的安全知识
+* [Swift](https://github.com/apple/swift) —— Swift开源代码
+* [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) —— Swift 3.0实现的各种设计模式
+* [libfacedetection](https://github.com/ShiqiYu/libfacedetection) —— 人脸识别，声称识别速度快 C++
+* [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS) —— 别人统计的各种库
