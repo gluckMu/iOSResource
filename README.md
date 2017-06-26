@@ -100,6 +100,7 @@
 * [YYKeyboardManager](https://github.com/ibireme/YYKeyboardManager) —— 键盘监听管理工具类 Objective-C
 * [Slidden](https://github.com/Brimizer/Slidden) —— 可自定义扩展的键盘实现
 * [TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding) —— 解决UITextField和键盘显示问题 Objective-C
+* [Metron](https://github.com/toineheuvelmans/Metron) —— 几何方面的计算库
 
 ## 完整应用
 
@@ -126,6 +127,10 @@
 * [AnyRTC](https://github.com/AnyRTC/AnyRTC-RTMP) —— 直播应用
 * [LFLiveKit](https://github.com/LaiFengiOS/LFLiveKit) —— 来疯直播开源的RTMP流sdk
 * [ijkplayer](https://github.com/Bilibili/ijkplayer) —— Bilibili开源的多媒体播放器
+
+## iOS 11
+
+* [Vision](https://github.com/jeffreybergier/Blog-Getting-Started-with-Vision) —— 介绍Vision库，人脸识别之类的
 
 ## 其他
 
