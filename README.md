@@ -22,6 +22,9 @@
 * [TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel) —— 替代系统UILabel，实现各种定制功能 Objective-C
 * [CFCityPickerVC](https://github.com/CharlinFeng/CFCityPickerVC) —— 城市选择控制器
 * [RKSwipeCards](https://github.com/cwRichardKim/RKSwipeCards) —— 滑动卡片效果 Objective-C
+* [NJKWebViewProgress](https://github.com/ninjinkun/NJKWebViewProgress) —— 古老的webview加载进度条 Objective-C
+* [Material](https://github.com/CosmicMind/Material) —— 符合Material设计的各种View
+* [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) —— 加载界面 Objective-C
 
 ## 动画
 
@@ -37,6 +40,8 @@
 * [KYAnimatedPageControl](https://github.com/KittenYang/KYAnimatedPageControl) —— 自定义UIPageControl，两种动画：粘性小球和旋转方块，Objective-C
 * [Gagat](https://github.com/Boerworz/Gagat) —— 主题切换动画
 * [Replace](https://github.com/MartinRGB/Replace-iOS) —— 一个下拉动画，Objective-C
+* [Advance](https://github.com/storehouse/Advance) —— 各种物理动画
+* [Pop](https://github.com/facebook/pop) —— facebook开源的动画框架 Objective-C++
 
 ## 性能监测
 
@@ -55,8 +60,12 @@
 
 ## 网络
 
+* [Alamofire](https://github.com/Alamofire/Alamofire) —— Mattt大神写的
 * [Bamboots](https://github.com/mmoaay/Bamboots) —— 基于Alamofire和ObjectMapper实现的网络层框架，可借鉴实现
 * [SocketRocket](https://github.com/facebook/SocketRocket) —— facebook开源的Websocket客户端实现 Objective-C
+* [Networking](https://github.com/3lvis/Networking) —— 基于NSURLSession的网络封装库，支持单元测试、图片缓存等
+* [Moya](https://github.com/Moya/Moya) —— 介于网络层（Alamofire）和业务层之间的抽象层
+* [RestKit](https://github.com/RestKit/RestKit) —— Restful接口网络框架 Objective-C
 
 ## 数据库
 
@@ -91,8 +100,9 @@
 * [rexxar-ios](https://github.com/douban/rexxar-ios) —— 豆瓣的移动端混合开发框架，Objective-C
 * [Each](https://github.com/dalu93/Each) —— 封装NSTimer的计时器工具类
 * [formvalidator-swift](https://github.com/ustwo/formvalidator-swift) —— 校验文本框输入的工具类
-* [SnapKit](https://github.com/SnapKit/SnapKit) —— AutoLayout工具类
+* [SnapKit](https://github.com/SnapKit/SnapKit) —— AutoLayout工具类，[Masonry](https://github.com/SnapKit/Masonry)也是他们开发的
 * [Cartography](https://github.com/robb/Cartography) —— AutoLayout工具类
+* [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) —— AutoLayout工具类
 * [MJRefresh](https://github.com/CoderMJLee/MJRefresh) —— 下拉刷新组件
 * [iOS-CoreImage-Swift](https://github.com/zhangao0086/iOS-CoreImage-Swift) —— 各种滤镜
 * [NXDrawKit](https://github.com/Nicejinux/NXDrawKit) —— 绘画的工具类 Objective-C
@@ -104,6 +114,25 @@
 * [Metron](https://github.com/toineheuvelmans/Metron) —— 几何方面的计算库
 * [SBJson](https://github.com/stig/json-framework) —— Json解析库 Objective-C
 * [SwiftGen](https://github.com/SwiftGen/SwiftGen) —— 资源使用工具类，包括字体、字符串本地化、颜色等
+* [Iconic](https://github.com/dzenbot/Iconic) —— 矢量图标展示，配合SwiftGen使用
+* [FileKit](https://github.com/nvzqz/FileKit) —— 文件管理
+* [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) —— 针对UITextField/UITextView的键盘管理 Objective-C
+* [Render](https://github.com/alexdrone/Render) —— 仿React的界面开发框架
+* [Componentkit](https://github.com/facebook/componentkit) —— facebook开源的仿React界面开发框架
+* [TextAttributes](https://github.com/delba/TextAttributes) —— 封装NSAttribute
+* [BlocksKit](https://github.com/BlocksKit/BlocksKit) —— block使用框架 Objective-C
+* [Nimbus](https://github.com/jverkoey/nimbus) —— 提供iOS开发的各种基础组件 Objective-C
+* [Mantle](https://github.com/Mantle/Mantle) —— Model层框架 Objective-C
+* [GPUImage](https://github.com/BradLarson/GPUImage) —— 基于GPU的图片和视频处理框架 Objective-C
+
+## 缓存
+
+* [FastImageCache](https://github.com/path/FastImageCache) —— 图片缓存 Objective-C
+* [TMCache](https://github.com/tumblr/TMCache) —— tumblr开源的数据缓存框架，但是已经不再维护 Objective-C
+* [PINCache](https://github.com/pinterest/PINCache) —— 从TMCache衍生出来的缓存框架 Objective-C
+* [Haneke](https://github.com/Haneke/HanekeSwift) —— 数据缓存框架，Objective-C和Swift都有
+* [SDWebImage](https://github.com/rs/SDWebImage) —— 图片缓存 Objective-C
+* [ImageCachingBenchmark](https://github.com/bpoplauschi/ImageCachingBenchmark) —— 几个缓存的对比，但是比较旧了，仅供参考
 
 ## 完整应用
 
@@ -122,6 +151,8 @@
 * [depcheck](https://github.com/wojteklu/depcheck) —— 分析Swift类依赖的工具，Ruby写的
 * [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) —— Swift代码格式化工具
 * [fastlane](https://github.com/fastlane/fastlane) —— 编译和打包iOS和Android应用的集成工具 Ruby
+* [SwiftTweaks](https://github.com/Khan/SwiftTweaks) —— 不用重新编译，直接在真机上修改颜色、数值等
+* [Peek](https://github.com/shaps80/Peek) —— 可以检测应用的布局
 
 ## 直播
 
@@ -157,3 +188,7 @@
 * [libfacedetection](https://github.com/ShiqiYu/libfacedetection) —— 人脸识别，声称识别速度快 C++
 * [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS) —— 别人统计的各种库
 * [Learnhaskell](https://github.com/bitemyapp/learnhaskell) —— Haskell学习资料
+* [Cobub](https://github.com/cobub/razor) —— 开源的App统计分析方案
+* [EarlGrey](https://github.com/google/EarlGrey) —— Google的开源iOS UI自动化测试工具 Objective-C
+* [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) —— Swift学习资料
+
