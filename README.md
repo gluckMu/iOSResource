@@ -92,6 +92,7 @@
 * [Each](https://github.com/dalu93/Each) —— 封装NSTimer的计时器工具类
 * [formvalidator-swift](https://github.com/ustwo/formvalidator-swift) —— 校验文本框输入的工具类
 * [SnapKit](https://github.com/SnapKit/SnapKit) —— AutoLayout工具类
+* [Cartography](https://github.com/robb/Cartography) —— AutoLayout工具类
 * [MJRefresh](https://github.com/CoderMJLee/MJRefresh) —— 下拉刷新组件
 * [iOS-CoreImage-Swift](https://github.com/zhangao0086/iOS-CoreImage-Swift) —— 各种滤镜
 * [NXDrawKit](https://github.com/Nicejinux/NXDrawKit) —— 绘画的工具类 Objective-C
@@ -102,12 +103,14 @@
 * [TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding) —— 解决UITextField和键盘显示问题 Objective-C
 * [Metron](https://github.com/toineheuvelmans/Metron) —— 几何方面的计算库
 * [SBJson](https://github.com/stig/json-framework) —— Json解析库 Objective-C
+* [SwiftGen](https://github.com/SwiftGen/SwiftGen) —— 资源使用工具类，包括字体、字符串本地化、颜色等
 
 ## 完整应用
 
 * [TKeyboard](https://github.com/music4kid/TKeyboard) —— 通过Mac键盘在iOS上输入，Objective-C
 * [Kickstarter](https://github.com/kickstarter/ios-oss) —— Kickstarter
 * [Dash](https://github.com/Kapeli/Dash-iOS) —— 查看开发API文档，推荐
+* [Potatso](https://github.com/gluckMu/Potatso) —— 一个Shadowsocks客户端，因为被很多人直接拿着代码上AppStore，导致原仓库被作者删了，这个是fork出来的
 
 ## 开发辅助
 
@@ -153,3 +156,4 @@
 * [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) —— Swift 3.0实现的各种设计模式
 * [libfacedetection](https://github.com/ShiqiYu/libfacedetection) —— 人脸识别，声称识别速度快 C++
 * [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS) —— 别人统计的各种库
+* [Learnhaskell](https://github.com/bitemyapp/learnhaskell) —— Haskell学习资料
