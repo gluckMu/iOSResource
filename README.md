@@ -42,6 +42,7 @@
 * [Replace](https://github.com/MartinRGB/Replace-iOS) —— 一个下拉动画，Objective-C
 * [Advance](https://github.com/storehouse/Advance) —— 各种物理动画
 * [Pop](https://github.com/facebook/pop) —— facebook开源的动画框架 Objective-C++
+* [Gemini](https://github.com/shoheiyokoyama/Gemini) —— 各种scroll动画
 
 ## 性能监测
 
@@ -124,6 +125,8 @@
 * [Nimbus](https://github.com/jverkoey/nimbus) —— 提供iOS开发的各种基础组件 Objective-C
 * [Mantle](https://github.com/Mantle/Mantle) —— Model层框架 Objective-C
 * [GPUImage](https://github.com/BradLarson/GPUImage) —— 基于GPU的图片和视频处理框架 Objective-C
+* [ArcKit](https://github.com/sobri909/ArcKit) —— 地理位置记录
+* [Queuer](https://github.com/FabrizioBrancati/Queuer) —— 队列管理
 
 ## 缓存
 
@@ -166,6 +169,7 @@
 ## iOS 11
 
 * [Vision](https://github.com/jeffreybergier/Blog-Getting-Started-with-Vision) —— 介绍Vision库，人脸识别之类的
+* [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) —— 基于ARKit和CoreLocation开发的相关应用
 
 ## 其他
 
@@ -191,4 +195,3 @@
 * [Cobub](https://github.com/cobub/razor) —— 开源的App统计分析方案
 * [EarlGrey](https://github.com/google/EarlGrey) —— Google的开源iOS UI自动化测试工具 Objective-C
 * [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) —— Swift学习资料
-
