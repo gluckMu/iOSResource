@@ -127,6 +127,7 @@
 * [GPUImage](https://github.com/BradLarson/GPUImage) —— 基于GPU的图片和视频处理框架 Objective-C
 * [ArcKit](https://github.com/sobri909/ArcKit) —— 地理位置记录
 * [Queuer](https://github.com/FabrizioBrancati/Queuer) —— 队列管理
+* [Layout](https://github.com/schibsted/layout) —— 一种声明式创建ui的框架，其中它使用的表达式解析器[Expression](https://github.com/nicklockwood/Expression)
 
 ## 缓存
 
@@ -136,6 +137,7 @@
 * [Haneke](https://github.com/Haneke/HanekeSwift) —— 数据缓存框架，Objective-C和Swift都有
 * [SDWebImage](https://github.com/rs/SDWebImage) —— 图片缓存 Objective-C
 * [ImageCachingBenchmark](https://github.com/bpoplauschi/ImageCachingBenchmark) —— 几个缓存的对比，但是比较旧了，仅供参考
+* [Disk](https://github.com/saoudrizwan/Disk) —— 文件存储，支持data、uiimage及符合Codable协议的对象
 
 ## 完整应用
 
