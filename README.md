@@ -159,6 +159,7 @@
 * [fastlane](https://github.com/fastlane/fastlane) —— 编译和打包iOS和Android应用的集成工具 Ruby
 * [SwiftTweaks](https://github.com/Khan/SwiftTweaks) —— 不用重新编译，直接在真机上修改颜色、数值等
 * [Peek](https://github.com/shaps80/Peek) —— 可以检测应用的布局
+* [Easy-mock](https://github.com/easy-mock/easy-mock) —— Mock
 
 ## 直播
 
