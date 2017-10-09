@@ -203,3 +203,4 @@
 * [Matcha](https://github.com/gomatcha/matcha) —— Go开发iOS、Android应用
 * [dist-prog-book](https://github.com/heathermiller/dist-prog-book) —— 分布式开发资料
 * [every-programmer-should-know](https://github.com/mr-mig/every-programmer-should-know) —— 程序猿学习资料
+* [cosmos](https://github.com/OpenGenus/cosmos) —— 算法合集
