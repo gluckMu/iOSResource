@@ -200,3 +200,6 @@
 * [Cobub](https://github.com/cobub/razor) —— 开源的App统计分析方案
 * [EarlGrey](https://github.com/google/EarlGrey) —— Google的开源iOS UI自动化测试工具 Objective-C
 * [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) —— Swift学习资料
+* [Matcha](https://github.com/gomatcha/matcha) —— Go开发iOS、Android应用
+* [dist-prog-book](https://github.com/heathermiller/dist-prog-book) —— 分布式开发资料
+* [every-programmer-should-know](https://github.com/mr-mig/every-programmer-should-know) —— 程序猿学习资料
