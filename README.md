@@ -45,6 +45,7 @@
 * [Advance](https://github.com/storehouse/Advance) —— 各种物理动画
 * [Pop](https://github.com/facebook/pop) —— facebook开源的动画框架 Objective-C++
 * [Gemini](https://github.com/shoheiyokoyama/Gemini) —— 各种scroll动画
+* [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) —— 构建复杂界面动画
 
 ## 性能监测
 
