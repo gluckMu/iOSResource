@@ -27,6 +27,7 @@
 * [Material](https://github.com/CosmicMind/Material) —— 符合Material设计的各种View
 * [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) —— 加载界面 Objective-C
 * [BulletinBoard](https://github.com/alexaubry/BulletinBoard) —— 弹框
+* [Cards](https://github.com/PaoloCuscela/Cards) —— 仿AppStore Card
 
 ## 动画
 
