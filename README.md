@@ -178,6 +178,15 @@
 * [Vision](https://github.com/jeffreybergier/Blog-Getting-Started-with-Vision) —— 介绍Vision库，人脸识别之类的
 * [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) —— 基于ARKit和CoreLocation开发的相关应用
 
+## Web
+
+* [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) —— Web开发检查清单
+* [Charts](https://github.com/frappe/charts) —— 画图
+* [Ant-Design](https://github.com/ant-design/ant-design-pro) —— 蚂蚁金服的中后台开发框架
+* [Svgr](https://github.com/smooth-code/svgr) —— SVG转换成React组件
+* [Tailwindcss](https://github.com/tailwindcss/tailwindcss) —— css框架
+* [Design-blocks](https://github.com/froala/design-blocks) —— 基于Bootstrap的组件库
+
 ## 其他
 
 * [IPAPatch](https://github.com/Naituw/IPAPatch) —— 无需越狱的侵入其他ipa包， Objective-C
@@ -206,3 +215,7 @@
 * [dist-prog-book](https://github.com/heathermiller/dist-prog-book) —— 分布式开发资料
 * [every-programmer-should-know](https://github.com/mr-mig/every-programmer-should-know) —— 程序猿学习资料
 * [cosmos](https://github.com/OpenGenus/cosmos) —— 算法合集
+* [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) —— linux命令行介绍
+* [Mask_RCNN](https://github.com/matterport/Mask_RCNN) —— 基于Keras和TensorFlow的物体检测算法
+* [Uncaptcha](https://github.com/ecthros/uncaptcha) —— 对抗Google reCaptcha
+* [gdbgui](https://github.com/cs01/gdbgui) —— Web端gdb调试工具
