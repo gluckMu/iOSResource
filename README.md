@@ -28,6 +28,7 @@
 * [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) —— 加载界面 Objective-C
 * [BulletinBoard](https://github.com/alexaubry/BulletinBoard) —— 弹框
 * [Cards](https://github.com/PaoloCuscela/Cards) —— 仿AppStore Card
+* [WhatsNew](https://github.com/BalestraPatrick/WhatsNew) —— 仿iOS原生APP的更新提示
 
 ## 动画
 
